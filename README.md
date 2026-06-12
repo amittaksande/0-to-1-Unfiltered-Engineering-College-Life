@@ -144,6 +144,12 @@ Arch IT Service – 3 students<br>
 ExcelR EdTech Private Ltd. – 1 student<br>
 Total Students Placed: 20<br>
 
+# Historical Placement Percentage [CT-PCE]
+- 2023 → 33.3%
+- 2024 → 22.5%
+- 2025 → 34.2%
+- 2026 → 16.7%
+
 And this is the condition of one of the best software-related branches of PCE. If we start looking at some of the core branches, the situation can be even more challenging.
 
 At this point, many of you will start asking a difficult question:
