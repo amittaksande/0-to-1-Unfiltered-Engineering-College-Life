@@ -17,13 +17,10 @@ Most importantly, I'll try my best to be 100% honest about everything I write he
 
 I know this story is going to be a little long, but by the end of it, I'll try my best to make sure that every second you spend reading it adds some value to your engineering journey/life.
 
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 # Section 1: Most Tier-3 Engineering Students Will Relate to This
 ══════════════════════════════════════════════════════════════════════════════════
