@@ -217,7 +217,7 @@ At the same time, I have also seen the other side. Without taking names, one of 
 
 Most of the companies that visited our campus were sales or marketing-oriented, while only a small percentage were actually IT companies. I am not saying this to discourage anyone. I just want you to do proper research before choosing any career path. Whether it is placements, GATE, CAT, government jobs, or MS abroad, understand the reality, study the data, and then make your decision.
 
-Career Path 6: GATE (Graduate Aptitude Test in Engineering) – Hidden Gem<br>
+# Career Path 6: GATE (Graduate Aptitude Test in Engineering) – Hidden Gem<br>
 ─────────────────────────────────────────────────────────────────────────<br>
 
 This is one of the most underrated opportunities available to engineering students, especially those from Tier-3 colleges. GATE provides a direct pathway to top institutes like IITs/NITs and IISc. An M.Tech from these institutes usually costs only around ₹2–3 lakhs for two years, and students also receive a stipend of ₹12,400 per month, which significantly reduces the financial burden. More importantly, it gives you the opportunity to spend two years with some of the brightest minds in the country, build a strong network, and gain access to opportunities that may not be available in a Tier-3 college.
@@ -226,8 +226,8 @@ Many people leave their jobs to prepare for GATE, while you still have time duri
 
 Another advantage of GATE is that it opens multiple government job opportunities. Through a good GATE rank, students can get opportunities in PSUs, research organizations, and institutes like ISRO, BARC, and DRDO. For core branches such as Mechanical, Electrical, and Civil, many government openings are directly linked to GATE scores. Even for Computer Science students,Top GATE Rank opens far more opportunities than most people cant realize in this same sheet u can find 50+ opportunity (thanks to rishi bhaiya )after GATE CS that can open up for you.Most importantly the exam is restricted to only engineers only unlike CAT. Before making any career decision, look at all the available options and the actual data. The better informed you are, the better your decision will be.
 
-##A Small Note on Placements  :<br>
-─────────────────────────────────────────<br>
+# A Small Note on Placements  :<br>
+──────────────────────<br>
 
 I don't have placement data for every IIT or institute. And I always love to go with data. However, I can share the placement statistics of the My College : M.Tech CSE batch at IIT Kanpur (2026 batch), which I have collected
 
@@ -254,7 +254,7 @@ The takeaway is simple: don't look at a placement report and assume every studen
 <br>
 <br>
 
-# Section 5: Amit Bhaiya Wants to Tell You Something
+# Section 4: Amit Bhaiya Wants to Tell You Something
 ═══════════════════════════════════════════════════════════════════════════
 
 Now, after reading this entire info. many of you might be thinking, "I should start preparing for GATE or some other exam right now." But I would say—stop for a moment.
@@ -277,7 +277,6 @@ The important thing to understand is that your competition is not with every per
 
 
 # Last Message for Those Who Have Already Decided to Prepare for GATE<br>
-───────────────────────────────────────────────────────────────────────<br>
 See, at one point I was exactly where you are right now—confused about what to do and what not to do. I spent a lot of time analyzing different career paths, thinking about what would work for me, what could go wrong, Preparing for any competitive exam comes with both advantages and risks. I have seen many of my friends and seniors taking drops for GATE and still end up with struggled. The possibility of failure always exists.
 
 But one thing that gave me confidence was data, not assumptions. If your goal is GATE and aim for the Top institutes of India. Do not just sit and study randomly. You need a proper plan, a clear strategy, and most importantly, guidance from people who have already cracked the exam. You may not realize the importance of guidance now, but after your attempt, you definitely will. Also, if you are not willing to sit for long hours consistently and stay disciplined for next few months, then this path may not be for you. I am not saying GATE is impossible, but if you want something bigger, you must be ready to take bigger actions and make sacrifices.
@@ -289,14 +288,13 @@ If you prepare with the right plan, strategy, and guidance, then reaching a top 
 <br>
 
 # Reason for Doing This :<br>
-─────────────────────────────────────────────────────────────────────────
 Amit is just a student like you, who comes from a very humble background. He studied in government schools and never had access to the best resources, guidance, or opportunities. But one thing he always had was the hunger to learn and the desire to do something meaningful in life. With limited knowledge, limited resources, and many limitations, he simply tried to make the best decisions he could with the information available to him at that time.
 
 Through the support of family, teachers, seniors, friends, and a lot of perseverance, he was able to complete his engineering journey. He knows very well what it feels like to be confused, lost, and unsure about the future. That is why he decided to share his experiences, mistakes, observations, and data with juniors, so that they can make more informed decisions than he could.
 
 Coming from such a background and getting an opportunity to study at one of the top institutes in India for higher education is something he considers a privilege rather than an achievement. He is still figuring out many things in life and does not claim to have all the answers. But whenever someone genuinely needs help, he tries to help as much as he can, because at different points in his own journey, someone else did the same for him.
 
-# If this document helps even one student make a better decision about their future, then the time spent creating it was worth it to me.
+If this document helps even one student make a better decision about their future, then the time spent creating it was worth it to me.
 
 For future updates, guidance, or if I come across something that might help my juniors will definitely share with you all
 
