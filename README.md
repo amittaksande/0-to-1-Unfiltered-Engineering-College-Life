@@ -1,4 +1,4 @@
-<h1>0 to 1: Unfiltered Engineering College Life</h1>
+<h1>0 to 1 : Unfiltered Engineering College Life</h1>
 
 𝘙𝘢𝘸, 𝘙𝘦𝘢𝘭, 𝘏𝘰𝘯𝘦𝘴𝘵, 𝘜𝘯𝘣𝘪𝘢𝘴𝘦𝘥 & 𝘊𝘰𝘮𝘱𝘭𝘦𝘵𝘦 4 𝘠𝘦𝘢𝘳 𝘰𝘧 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦
 ════════════════════════════════════════════════════════════════════
