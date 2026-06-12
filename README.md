@@ -5,13 +5,13 @@
 
 
 
-So you're either about to start engineering, or you've already taken admission in a Tier-2 or Tier-3 college or you are in 1st or may be in Final year and are wondering what the next four years are really going to look like. Maybe you're excited, maybe you're nervous, maybe you're comparing yourself with students from IITs and NITs, or maybe you're simply trying to figure out whether engineering is actually worth the time, effort, and sacrifices you're about to make.
+So you're either about to start engineering, or you've already taken admission in a Tier-2 or Tier-3 college or you are in 1st year or may be in Final year and are wondering what the next few years are really going to look like. Maybe you're excited, maybe you're nervous, maybe you're comparing yourself with students from IITs and NITs, or maybe you're simply trying to figure out whether engineering is actually worth the time, effort, and sacrifices you're about to make.
 
-This is that guide.
+This is that guide for you !
 
 I'll try to cover each and every thing that genuinely matters to you as an engineering student — academics, skills, internships, placements, friendships, opportunities, mistakes, personal growth, and the reality of studying in a Tier-3 college. I'll also talk about the things nobody tells you during admission season but that end up having the biggest impact on your college life.Things which are not mention in academic brochure.
 
-One more thing — throughout my engineering journey, I didn't focus on just one path. Alongside my college academics, I prepared for colllege placements, gov. job exa, CAT and GATE. This is major mistake i have done but this is help me to understanding different preparation strategies, making mistakes, and learning from them. So whatever I'll be sharing here doesn't come from theory, YouTube motivation, or things I've heard from others. It comes from my own experiences, observations, successes, failures, and lessons learned during my engineering journey. While I may not have all the answers , I am not saying I am perfect to tell but I believe many of the things I discuss will be relevant and useful regardless of which path you eventually choose.
+One more thing — throughout my engineering journey, I didn't focus on just one path. Alongside my college academics, I prepared for colllege placements, goverment job, CAT and GATE. This is major mistake i have done. So whatever I'll be sharing here doesn't come from theory, YouTube motivation, or things I've heard from others. It comes from my own experiences, observations, successes, failures, and lessons learned during my engineering journey. While I may not have all the answers , I am not saying I am perfect to tell but I believe many of the things I discuss will be relevant and useful regardless of which path you eventually choose.
 
 Most importantly, I'll try my best to be 100% honest about everything I write here. No sugarcoating, no fake motivation, and no unrealistic success stories, no drama . Just real experiences, observations, lessons, mistakes, and everything I wish someone had told me when I was in your position.
 
@@ -116,7 +116,7 @@ And suddenly, the only option left seems to be a ₹4 LPA job.But this is where 
 <br>
 
 # Section 2 : Reality Check
-═══════════════════════════
+════════════════════════
 
 
 ## The Placement Reality
@@ -139,11 +139,11 @@ Package-wise Placement Distribution (2026 Batch)
 
 Company-wise Placement Distribution (2026 Batch)
 
-Capgemini  – 8 students (only girls are allowed -off campus )<br>
-Cognizant – 5 students <br>
-Sphere Skill Knowledge Synergy – 3 students<br>
-Arch IT Service – 3 students<br>
-ExcelR EdTech Private – 1 student<br>
+8 students - Capgemini   (only girls are allowed -off campus )<br>
+5 students - Cognizant  <br>
+3 students - Sphere Skill Knowledge Synergy <br>
+3 students - Arch IT Service <br>
+1 students - ExcelR EdTech Private <br>
 Total Students Placed: 20 out of 120<br>
 
 Historical Placement Percentage [CT-PCE]
