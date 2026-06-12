@@ -1,6 +1,6 @@
-<h1 align="center">0 to 1: Unfiltered Engineering College Life</h1>
+<h1>0 to 1: Unfiltered Engineering College Life</h1>
 
-Raw, Real, Honest, Unbiased & Complete 4 Year of Engineering Experience
+𝘙𝘢𝘸, 𝘙𝘦𝘢𝘭, 𝘏𝘰𝘯𝘦𝘴𝘵, 𝘜𝘯𝘣𝘪𝘢𝘴𝘦𝘥 & 𝘊𝘰𝘮𝘱𝘭𝘦𝘵𝘦 4 𝘠𝘦𝘢𝘳 𝘰𝘧 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦
 ══════════════════════════════════════════════════════════════════════════════════
 
 
@@ -21,7 +21,12 @@ I know this story is going to be a little long, but by the end of it, I'll try m
 
 
 
+
+
+
+
 # Section 1: Most Tier-3 Engineering Students Will Relate to This
+══════════════════════════════════════════════════════════════════════════════════
 
 ## First Year – The Honeymoon Period
 
@@ -39,7 +44,6 @@ A large number of students eventually find themselves watching YouTube lectures 
 
 And of course, no discussion about first year would be complete without mentioning crushes. At some point, many students end up trying to impress that one person they find interesting. Sometimes it works, most of the time nothing happens, and years later it becomes one of those memories everyone laughs about with their friends.
 
-—------------------------------------------------------------------------------------------------------------------
 
 ## Second Year
 
@@ -60,7 +64,6 @@ The truth is that second year is less about mastering a skill and more about dis
 And then, just when the year is about to end, after the exams, assignments, practicals, and CGPA shocks, almost every engineering student makes the same promise to themselves:
 
 "Next semester se pakka padhunga."
-—------------------------------------------------------------------------------------------------------------------
 
 ## Third Year – The Wake-Up Call
 
@@ -84,7 +87,7 @@ The truth is that third year is probably the most important year of engineering.
 
 For many students, third year is the year where engineering finally starts feeling real.
 
-—------------------------------------------------------------------------------------------------------------------
+
 
 ## Final Year – The Final Chapter
 
@@ -113,9 +116,14 @@ And suddenly, the only option left seems to be a ₹4 LPA job.But this is where 
 
 
 
-# Section 2 : Reality Check
 
-============================================
+
+
+
+
+# Section 2 : Reality Check
+══════════════════════════════════════════════════════════════════════════════════
+
 
 ## The Placement Reality
 
@@ -156,8 +164,15 @@ These questions are completely natural. In fact, almost every final-year student
 Take a deep breath. Hold on !
 Amit Bhaiya is here to share a few things that four years of engineering have taught him—lessons that don't appear in placement statistics, salary packages, or LinkedIn posts.
 
-# Section 3 : Other Opportunities That Open Up After Engineering
 
+
+
+
+
+
+
+# Section 3 : Other Opportunities That Open Up After Engineering
+════════════════════════════════════════════════════════════════════════════════════
 
 
 Disclaimer : This section is not for everyone or those who have already decided what they want to do
@@ -169,32 +184,31 @@ It is for those who are hungry to work hard and change their circumstances.
 
 If that sounds like you, keep reading.
 
-Career Path 1: UPSC
-—----------------------------
-
+#Career Path 1: UPSC
+────────────────────
 Yes, the most famous and prestigious career path in India. But I would not recommend it to everyone. Not because you cannot crack it, but because UPSC demands much more than intelligence. It requires years of consistency, the right strategy, guidance, family support, and enough financial stability to survive during the preparation phase. Many candidates spend 4–5 years preparing for a single exam, and most do not clear it in their first few attempts.
 
 Talking from personal experience, one of my relatives has been preparing for UPSC for the last 5–6 years and is still trying. It is not because he is weak in studies he is not even average ; the exam itself is extremely competitive. Even candidates who become IPS officers may not be able to clear the Preliminary examination again in another attempt. So, choose UPSC only if you fully understand the risks involved and are prepared for a long and uncertain journey.
 
-Career Path 2: Railways, SSC, Banking & Other Government Jobs
-—--------------------------------------------------------------------------------------------------------
 
+#Career Path 2: Railways, SSC, Banking & Other Government Jobs
+──────────────────────────────────────────────────────────────
 I will be honest—I do not know every detail about all these exams, but one thing is common among them: they take time, patience, and consistent preparation. The competition is very high because lakhs of candidates apply every year. However, do not take this in a negative way. Government jobs are still one of the most respected career options in India and provide a stable path for those who are willing to put in the effort.
 
 Right now, you are young and may not have many responsibilities, so private-sector jobs with higher salaries may look more attractive. But as life moves forward, priorities change. Many people eventually value job security, work-life balance, and mental peace over constant corporate pressure. A government job may not always offer the highest salary, but it provides stability and allows many people to live a peaceful life with their family, spouse, and children.
 
-Career Path 3: MBA
-—--------------------------------------------------------------------------------------------------------
 
+#Career Path 3: MBA
+────────────────────
 Doing an MBA is a good option, but in my opinion, it only makes sense if you do it from a top college. Colleges like IIMs, IITs (yes, IITs also offer MBA programs), FMS Delhi, XLRI, and SPJIMR are among the institutions worth aiming for. To get into these colleges, you need to crack CAT, which usually requires 1–2 years of serious preparation. Even then, many candidates are unable to secure admission because the competition is extremely high.
 
 The CAT exam is open to students from all backgrounds—B.Com, B.A., Medical, Engineering, Chartered Accountancy, and many others. This makes the competition even tougher, especially for GEM (General Engineer Male) candidates. Sometimes, even choosing the wrong question set on exam day can significantly affect your result. It is also worth noting that most students in top MBA colleges are not freshers. A large percentage have prior work experience, which is why many people recommend gaining some industry experience before attempting CAT.
 
 Another important factor is the cost. A top MBA can easily cost ₹20–30 lakhs.(for top MBA colleges its 30-35 lack for 2 years) So, before deciding on this path, make sure you understand the competition, fees, admission statistics, and placement outcomes. If you are still interested after looking at the data, then MBA can be a great option, but always make decisions based on facts rather than assumptions.
 
-Career Path 4: MS Abroad
-—---------------------------------------------------------------------------------------------------------
 
+#Career Path 4: MS Abroad
+─────────────────────────
 MS abroad can open up many opportunities, including access to better research facilities, global exposure, higher salaries, and the chance to build a career in another country. For many students, it is a great option if they want to explore opportunities beyond India and experience a different lifestyle.
 
 However, I would mainly recommend this path to students who have a strong financial background or a clear plan for funding their education. Even before getting admission, you may need to spend ₹3–4 lakhs on exam fees, applications, coaching, document processing, and other related expenses. The overall cost can be much higher depending on the country and university you choose.
@@ -202,9 +216,7 @@ However, I would mainly recommend this path to students who have a strong financ
 If you are interested in this path, do your own research carefully. Look at university rankings, tuition fees, scholarships, living expenses, visa rules, job opportunities, and return on investment before making a decision. It is a great opportunity, but only when chosen after proper planning and research.
 
 ## Career Path 5 : About Off-Campus Placements
-
----------------------------------------------------------------------------------------------------------
-
+───────────────────────────────────────────────
 I have not talked much about off-campus placements because they are a completely different game. I am not saying it is impossible, but it is definitely difficult. But If you are competent enough, have the right guidance, proper planning, and strong skills, you can absolutely make it. There are many students who have secured good opportunities through off-campus hiring.might not from our college but from different colleges.
 
 At the same time, I have also seen the other side. Without taking names, one of my batchmates was  ranked #1 in our institute on the GFG platform and still ended up with a ₹4 LPA job. Even now, he is waiting for his joining letter but he will get soon and best wishes to him always. Around 80% of my batchmates are still sitting at home. Some have joined coaching institutes after B.Tech for getting a job, only few takes drop for GATE those who have planned to go for Master  from IIT and some are even ready to take sales jobs just to start earning.Becaused living at Home after b.tech come with lot of mental pressure that u will not realized Now.
@@ -212,7 +224,7 @@ At the same time, I have also seen the other side. Without taking names, one of 
 Most of the companies that visited our campus were sales or marketing-oriented, while only a small percentage were actually IT companies. I am not saying this to discourage anyone. I just want you to do proper research before choosing any career path. Whether it is placements, GATE, CAT, government jobs, or MS abroad, understand the reality, study the data, and then make your decision.
 
 Career Path 6: GATE (Graduate Aptitude Test in Engineering) – Hidden Gem
----------------------------------------------------------------------------------------------------------
+─────────────────────────────────────────────────────────────────────────
 
 This is one of the most underrated opportunities available to engineering students, especially those from Tier-3 colleges. GATE provides a direct pathway to top institutes like IITs/NITs and IISc. An M.Tech from these institutes usually costs only around ₹2–3 lakhs for two years, and students also receive a stipend of ₹12,400 per month, which significantly reduces the financial burden. More importantly, it gives you the opportunity to spend two years with some of the brightest minds in the country, build a strong network, and gain access to opportunities that may not be available in a Tier-3 college.
 
@@ -220,8 +232,8 @@ Many people leave their jobs to prepare for GATE, while you still have time duri
 
 Another advantage of GATE is that it opens multiple government job opportunities. Through a good GATE rank, students can get opportunities in PSUs, research organizations, and institutes like ISRO, BARC, and DRDO. For core branches such as Mechanical, Electrical, and Civil, many government openings are directly linked to GATE scores. Even for Computer Science students,Top GATE Rank opens far more opportunities than most people cant realize in this same sheet u can find 50+ opportunity (thanks to rishi bhaiya )after GATE CS that can open up for you.Most importantly the exam is restricted to only engineers only unlike CAT. Before making any career decision, look at all the available options and the actual data. The better informed you are, the better your decision will be.
 
-A Small Note on Placements  :
-========================
+##A Small Note on Placements  :
+─────────────────────────────────────────
 
 I don't have placement data for every IIT or institute. And I always love to go with data. However, I can share the placement statistics of the My College : M.Tech CSE batch at IIT Kanpur (2026 batch), which I have collected
 
@@ -245,8 +257,15 @@ Note: If you are from a branch other than CS, do not blindly rely on the data or
 The takeaway is simple: don't look at a placement report and assume every student receives 30 or 50 LPA above package at every IIT. Instead, focus on understanding the opportunities available, the skill level required to reach them, and whether the program aligns with your long-term goals.
 .
 
+
+
+
+
+
+
+
 # Section 5: Amit Bhaiya Wants to Tell You Something
-==================================
+═══════════════════════════════════════════════════════════════════════════
 
 Now, after reading this entire info. many of you might be thinking, "I should start preparing for GATE or some other exam right now." But I would say—stop for a moment.
 
@@ -267,7 +286,7 @@ The important thing to understand is that your competition is not with every per
 
 
 Last Message for Those Who Have Already Decided to Prepare for GATE
-—--------------------------------------------------------------------------------------------------------See, at one point I was exactly where you are right now—confused about what to do and what not to do. I spent a lot of time analyzing different career paths, thinking about what would work for me, what could go wrong, Preparing for any competitive exam comes with both advantages and risks. I have seen many of my friends and seniors take drops for GATE and still end up with struggled. The possibility of failure always exists, and there is no point pretending otherwise.
+See, at one point I was exactly where you are right now—confused about what to do and what not to do. I spent a lot of time analyzing different career paths, thinking about what would work for me, what could go wrong, Preparing for any competitive exam comes with both advantages and risks. I have seen many of my friends and seniors take drops for GATE and still end up with struggled. The possibility of failure always exists, and there is no point pretending otherwise.
 
 But one thing that gave me confidence was data, not assumptions. If your goal is GATE, then aim for the top institutes of India. Do not just sit and study randomly. You need a proper plan, a clear strategy, and most importantly, guidance from people who have already cracked the exam. You may not realize the importance of guidance now, but after your attempt, you definitely will. Also, if you are not willing to sit for long hours consistently and stay disciplined for next few months, then this path may not be for you. I am not saying GATE is impossible, but if you want something bigger, you must be ready to take bigger actions and make sacrifices.
 
