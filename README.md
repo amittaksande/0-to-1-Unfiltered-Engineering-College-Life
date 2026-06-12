@@ -21,7 +21,7 @@ I know this story is going to be a little long, but by the end of it, I'll try m
 <br>
 <br>
 
-# Section 1: Most Tier-3 Engineering Students Will Relate to This
+# Section 1: Most Tier-3 Eng.Students Will Relate to This and My PCE Juniors
 ══════════════════════════════════════════════════════════════════════════════════
 
 ## First Year – The Honeymoon Period
@@ -35,10 +35,9 @@ The first year is usually when you make the largest number of friends. You'll sp
 Academically, most students start with great enthusiasm. Everyone wants a high CGPA, everyone promises themselves they'll study regularly, and everyone tries to maintain that famous 75% attendance requirement. For the first few weeks, notebooks are neat, assignments are submitted on time, and motivation is at an all-time high.
 
 But slowly, reality begins to set in.
-
 A large number of students eventually find themselves watching YouTube lectures from channels like Tickles Academy, Gate Smashers, or some random "Complete Unit in 15 Minutes" video just one day before the exam. Somehow, these videos become the unofficial professors for half the batch during exam season.
 
-And of course, no discussion about first year would be complete without mentioning crushes. At some point, many students end up trying to impress that one person they find interesting. Sometimes it works, most of the time nothing happens, and years later it becomes one of those memories everyone laughs about with their friends.
+And of course, no discussion about first year would be complete without mentioning crushes. At some point, many students end up trying to impress that one person that you find interesting. 
 <br>
 
 ## Second Year - Exploration Time
@@ -129,7 +128,7 @@ Because I am a student of the 2026 batch, I can provide a clear picture of this 
 
 Package-wise Placement Distribution (2026 Batch)
 
-₹4.25 LPA – 8 students<br>
+₹4.25 LPA – 8 students (only for girls )<br>
 ₹4.00 LPA – 5 students<br>
 ₹3.00 LPA – 1 student<br>
 ₹2.80 LPA – 3 students<br>
@@ -137,14 +136,14 @@ Package-wise Placement Distribution (2026 Batch)
 
 Company-wise Placement Distribution (2026 Batch)
 
-Capgemini  – 7 students<br>
-Cognizant – 6 students (only girls are allowed -off campus )<br>
-Sphere Skill Knowledge Synergy (OPC) Pvt. Ltd. – 3 students<br>
+Capgemini  – 8 students (only girls are allowed -off campus )<br>
+Cognizant – 5 students <br>
+Sphere Skill Knowledge Synergy – 3 students<br>
 Arch IT Service – 3 students<br>
-ExcelR EdTech Private Ltd. – 1 student<br>
-Total Students Placed: 20<br>
+ExcelR EdTech Private – 1 student<br>
+Total Students Placed: 20 out of 120<br>
 
-# Historical Placement Percentage [CT-PCE]
+Historical Placement Percentage [CT-PCE]
 - 2023 → 33.3%
 - 2024 → 22.5%
 - 2025 → 34.2%
@@ -152,7 +151,7 @@ Total Students Placed: 20<br>
 
 And this is the condition of one of the best software-related branches of PCE. If we start looking at some of the core branches, the situation can be even more challenging.
 
-At this point, many of you will start asking a difficult question:
+At this point, many of you will start asking a that difficult question:
 
 "Did I make the right decision?"
 After investing ₹12–13 lakhs(and if u are a girl then it could be even more), spending four years in engineering, sacrificing countless weekends, assignments, exams, and opportunities, is getting a ₹4 LPA job really worth it? And that's assuming you get placed in the first place.(the main thing is 5-10 years ago they giving same package and now after this much of inflation ,considering living cost u are getting same offer..u need to think twice)
@@ -177,23 +176,23 @@ It is for those who refuse to settle for an average life.<br>
 It is for those who do not come from a strong financial background.<br>
 It is for those who are hungry to work hard and change their circumstances.<br>
 
-If that sounds like you, keep reading.
+If its you, keep reading 
 
-#Career Path 1: UPSC<br>
+# Career Path 1: UPSC<br>
 ────────────────────<br>
 Yes, the most famous and prestigious career path in India. But I would not recommend it to everyone. Not because you cannot crack it, but because UPSC demands much more than intelligence. It requires years of consistency, the right strategy, guidance, family support, and enough financial stability to survive during the preparation phase. Many candidates spend 4–5 years preparing for a single exam, and most do not clear it in their first few attempts.
 
 Talking from personal experience, one of my relatives has been preparing for UPSC for the last 5–6 years and is still trying. It is not because he is weak in studies he is not even average ; the exam itself is extremely competitive. Even candidates who become IPS officers may not be able to clear the Preliminary examination again in another attempt. So, choose UPSC only if you fully understand the risks involved and are prepared for a long and uncertain journey.
 
 
-#Career Path 2: Railways, SSC, Banking & Other Government Jobs<br>
+# Career Path 2: Railways, SSC, Banking & Other Government Jobs<br>
 ──────────────────────────────────────────────────────────────<br>
 I will be honest—I do not know every detail about all these exams, but one thing is common among them: they take time, patience, and consistent preparation. The competition is very high because lakhs of candidates apply every year. However, do not take this in a negative way. Government jobs are still one of the most respected career options in India and provide a stable path for those who are willing to put in the effort.
 
 Right now, you are young and may not have many responsibilities, so private-sector jobs with higher salaries may look more attractive. But as life moves forward, priorities change. Many people eventually value job security, work-life balance, and mental peace over constant corporate pressure. A government job may not always offer the highest salary, but it provides stability and allows many people to live a peaceful life with their family, spouse, and children.
 
 
-#Career Path 3: MBA<br>
+# Career Path 3: MBA<br>
 ────────────────────<br>
 Doing an MBA is a good option, but in my opinion, it only makes sense if you do it from a top college. Colleges like IIMs, IITs (yes, IITs also offer MBA programs), FMS Delhi, XLRI, and SPJIMR are among the institutions worth aiming for. To get into these colleges, you need to crack CAT, which usually requires 1–2 years of serious preparation. Even then, many candidates are unable to secure admission because the competition is extremely high.
 
@@ -202,7 +201,7 @@ The CAT exam is open to students from all backgrounds—B.Com, B.A., Medical, En
 Another important factor is the cost. A top MBA can easily cost ₹20–30 lakhs.(for top MBA colleges its 30-35 lack for 2 years) So, before deciding on this path, make sure you understand the competition, fees, admission statistics, and placement outcomes. If you are still interested after looking at the data, then MBA can be a great option, but always make decisions based on facts rather than assumptions.
 
 
-#Career Path 4: MS Abroad<br>
+# Career Path 4: MS Abroad<br>
 ─────────────────────────<br>
 MS abroad can open up many opportunities, including access to better research facilities, global exposure, higher salaries, and the chance to build a career in another country. For many students, it is a great option if they want to explore opportunities beyond India and experience a different lifestyle.
 
@@ -210,7 +209,7 @@ However, I would mainly recommend this path to students who have a strong financ
 
 If you are interested in this path, do your own research carefully. Look at university rankings, tuition fees, scholarships, living expenses, visa rules, job opportunities, and return on investment before making a decision. It is a great opportunity, but only when chosen after proper planning and research.
 
-## Career Path 5 : About Off-Campus Placements<br>
+# Career Path 5 : About Off-Campus Placements<br>
 ───────────────────────────────────────────────<br>
 I have not talked much about off-campus placements because they are a completely different game. I am not saying it is impossible, but it is definitely difficult. But If you are competent enough, have the right guidance, proper planning, and strong skills, you can absolutely make it. There are many students who have secured good opportunities through off-campus hiring.might not from our college but from different colleges.
 
@@ -232,24 +231,24 @@ Another advantage of GATE is that it opens multiple government job opportunities
 
 I don't have placement data for every IIT or institute. And I always love to go with data. However, I can share the placement statistics of the My College : M.Tech CSE batch at IIT Kanpur (2026 batch), which I have collected
 
-8 students received packages above 50 LPA<br>
-23 students received packages above 30 LPA<br>
-33 students received packages above 25 LPA<br>
-37 students received packages above 20 LPA<br>
-51 students received packages above 15 LPA
+8 stu. received packages above 50 LPA<br>
+23 stu. received packages above 30 LPA<br>
+33 stu. received packages above 25 LPA<br>
+37 stu. received packages above 20 LPA<br>
+51 stu. received packages above 15 LPA
 
-Highest Package: 83 LPA<br>
-Lowest Package: 10 LPA<br>
-Average Package : 27 LPA<br>
-Placement Percentage: 100%
+- Highest Package: 83 LPA<br>
+- Lowest Package: 10 LPA<br>
+- Average Package : 27 LPA<br>
+- Placement Percentage: 100%
 
 One important thing to understand is that these numbers are cumulative. For example, when I say 33 students received packages above 25 LPA, that count already includes students who received packages above 30 LPA and 50 LPA. I am not going to share every single detail here of every college actually i dont have also. Engineering teaches you many things, and one of them is that not everything will be handed to you. Learning how to find information yourself is an important skill.
 
-Another point worth mentioning is that these statistics are specifically for the M.Tech CSE program at IIT Kanpur. They should not be used to estimate placements for other branches. Different departments have different opportunities, different recruiters, and different placement outcomes. Some branches may have lower average packages, and in certain core branches, placement percentages can also be less than 50%.Also remember that IIT Kanpur is generally considered among the top 4 IITs in the country. Naturally, placement outcomes at other IITs may differ depending on the branch, market conditions, and institute reputation.
+Another point worth mentioning is that these statistics are specifically for the M.Tech CSE program at IIT Kanpur. They should not be used to estimate placements for other branches. Different departments have different opportunities, different recruiters, and different placement outcomes. Some branches may have lower average packages, and in certain core branches, placement percentages can also be less than 50%. Also remember that IIT Kanpur is top 4 IITs in the country. Naturally, placement outcomes at other IITs may differ depending on the branch, market conditions, and institute reputation.
 
 Note: If you are from a branch other than CS, do not blindly rely on the data or observations I have shared here. The reality can be very different for Mechanical, Electrical, Civil, Electronics, and other branches. Similarly, opportunities, placements, and outcomes are not the same across all IITs and institutes. Always do your own research and look at the latest official data for your branch, target institute, and career path before making any major decision
 
-The takeaway is simple: don't look at a placement report and assume every student receives 30 or 50 LPA above package at every IIT. Instead, focus on understanding the opportunities available, the skill level required to reach them, and whether the program aligns with your long-term goals.
+The takeaway is simple: don't look at a placement report and assume every student receives  40-50 LPA above package at every IIT. Instead, focus on understanding the opportunities available, the skill level required to reach them, and whether the program aligns with your long-term goals or not.
 
 <br>
 <br>
@@ -260,9 +259,10 @@ The takeaway is simple: don't look at a placement report and assume every studen
 
 Now, after reading this entire info. many of you might be thinking, "I should start preparing for GATE or some other exam right now." But I would say—stop for a moment.
 
-As you may have noticed throughout this document, I always prefer data over motivation. For GATE CS, more than 2 lakh candidates register this year, but only a small fraction secure admission into the top IITs. Before choosing any path, do your own research. Connect with students who are already studying at IITs, NITs, or working in the field you want to They usually have a much clearer picture than random people on social media. See in our college there is no such enviorment of GATE or encourangment from college. I am able to do thats all together different story .
+As you may have noticed throughout this document, I always prefer data over motivation. For GATE CS, more than 2 lakh candidates register this year, but only a small fraction secure admission into the top IITs. Before choosing any path, do your own research. Connect with students who are already studying at IITs, NITs, or working in the field you want to go.They usually have a much clearer picture than random people on social media. See in our college there is no such enviorment of GATE or encourangment from college. I am able to do thats all together different story .
 Since you are from my college, I am sharing a resource that may help you analyze things better:
 
+[you can open this link after reading]
 https://docs.google.com/spreadsheets/d/1DhohNBG1uQSc9gYAoCmuQ8dGw6bKaFFwIpmtJGZDHN8/edit?gid=2084501172#gid=2084501172
 
 For GATE CS 2026, a rough idea is: Out of 100 marks
@@ -276,10 +276,11 @@ For GATE CS 2026, a rough idea is: Out of 100 marks
 The important thing to understand is that your competition is not with every person who fills the form . Many candidates appear casually or without serious preparation. The real competition is with the students who prepare consistently for months or years. The path is difficult, but it is not impossible. Whatever path you choose—placements, GATE, CAT, government jobs, or higher studies—make sure it is your decision, backed by proper research and a clear understanding of reality.Not any assumption.
 
 
-Last Message for Those Who Have Already Decided to Prepare for GATE
-See, at one point I was exactly where you are right now—confused about what to do and what not to do. I spent a lot of time analyzing different career paths, thinking about what would work for me, what could go wrong, Preparing for any competitive exam comes with both advantages and risks. I have seen many of my friends and seniors take drops for GATE and still end up with struggled. The possibility of failure always exists, and there is no point pretending otherwise.
+# Last Message for Those Who Have Already Decided to Prepare for GATE<br>
+───────────────────────────────────────────────────────────────────────<br>
+See, at one point I was exactly where you are right now—confused about what to do and what not to do. I spent a lot of time analyzing different career paths, thinking about what would work for me, what could go wrong, Preparing for any competitive exam comes with both advantages and risks. I have seen many of my friends and seniors taking drops for GATE and still end up with struggled. The possibility of failure always exists.
 
-But one thing that gave me confidence was data, not assumptions. If your goal is GATE, then aim for the top institutes of India. Do not just sit and study randomly. You need a proper plan, a clear strategy, and most importantly, guidance from people who have already cracked the exam. You may not realize the importance of guidance now, but after your attempt, you definitely will. Also, if you are not willing to sit for long hours consistently and stay disciplined for next few months, then this path may not be for you. I am not saying GATE is impossible, but if you want something bigger, you must be ready to take bigger actions and make sacrifices.
+But one thing that gave me confidence was data, not assumptions. If your goal is GATE and aim for the Top institutes of India. Do not just sit and study randomly. You need a proper plan, a clear strategy, and most importantly, guidance from people who have already cracked the exam. You may not realize the importance of guidance now, but after your attempt, you definitely will. Also, if you are not willing to sit for long hours consistently and stay disciplined for next few months, then this path may not be for you. I am not saying GATE is impossible, but if you want something bigger, you must be ready to take bigger actions and make sacrifices.
 
 If you prepare with the right plan, strategy, and guidance, then reaching a top institute is absolutely possible. Stay focused, stay consistent, solve problems, and give yourself enough time. With hard work of  next few months or 1-2 years can completely change the direction of your life. That's all Amit Bhaiya wants to say to you !
 
@@ -287,29 +288,31 @@ If you prepare with the right plan, strategy, and guidance, then reaching a top 
 <br>
 <br>
 
-#Reason for Doing This :<br>
+# Reason for Doing This :<br>
 ─────────────────────────────────────────────────────────────────────────
 Amit is just a student like you, who comes from a very humble background. He studied in government schools and never had access to the best resources, guidance, or opportunities. But one thing he always had was the hunger to learn and the desire to do something meaningful in life. With limited knowledge, limited resources, and many limitations, he simply tried to make the best decisions he could with the information available to him at that time.
 
-Through the support of family, teachers, seniors, friends, and a lot of perseverance, he was able to complete his engineering journey. He knows very well what it feels like to be confused, lost, and unsure about the future. That is why he decided to share his experiences, mistakes, observations, and data with juniors, so that they can make more informed decisions than he could.Coming from such a background and getting an opportunity to study at one of the top institutes in India for higher education is something he considers a privilege rather than an achievement. He is still figuring out many things in life and does not claim to have all the answers. But whenever someone genuinely needs help, he tries to help as much as he can, because at different points in his own journey, someone else did the same for him.
+Through the support of family, teachers, seniors, friends, and a lot of perseverance, he was able to complete his engineering journey. He knows very well what it feels like to be confused, lost, and unsure about the future. That is why he decided to share his experiences, mistakes, observations, and data with juniors, so that they can make more informed decisions than he could.
 
-If this document helps even one student make a better decision about their future, then the time spent creating it was worth it to me.
+Coming from such a background and getting an opportunity to study at one of the top institutes in India for higher education is something he considers a privilege rather than an achievement. He is still figuring out many things in life and does not claim to have all the answers. But whenever someone genuinely needs help, he tries to help as much as he can, because at different points in his own journey, someone else did the same for him.
 
-For future updates, guidance, or if I come across something that might help juniors will share with you all
+# If this document helps even one student make a better decision about their future, then the time spent creating it was worth it to me.
 
-LinkedIn: www.linkedin.com/in/amittaksande<br>
-Email: engineer.amittaksande@gmail.com
+For future updates, guidance, or if I come across something that might help my juniors will definitely share with you all
 
 Amit Taksande<br>
 B.Tech - PCE Nagpur [Computer Technology : 2022-2026]<br>
-M.Tech - IIT Kanpur [CSE : 2026-2028]
+M.Tech - IIT Kanpur [CSE : 2026-2028]<br>
+
+LinkedIn: www.linkedin.com/in/amittaksande<br>
+Email: engineer.amittaksande@gmail.com<br>
 
 
 ## Final Note
 
-If you have any doubts—academic or non-academic—and feel that my suggestions or experience might help, feel free to reach out through  my Gmail / Google Form. I may not have all the answers, but I will try my best to help whenever I can.
+If you have any doubts—academic or non-academic—and feel that my suggestions or experience might help, feel free to reach out through  my Gmail. I may not have all the answers, but I will try my best to help whenever I can.
 
-Also, if this article helped you in any way, I would love to hear your thoughts, feedback, or suggestions through the same Google Form.
+Also, if this article helped you in any way, I would love to hear your thoughts, feedback, or any suggestions through the this Google Form.
 
 
 
