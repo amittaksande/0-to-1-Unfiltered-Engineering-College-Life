@@ -1,27 +1,14 @@
-> ⚠️ This article reflects my personal experiences, observations, and lessons learned during my engineering journey. Please do your own research before making any academic or career decisions.
+0 to 1: Unfiltered Engineering College Life 
 
 
-## 📖 Table of Contents
 
-
-- Introduction
-- Section 1
-- Section 2
-- Section 3
-- A Small Note on Placements
-- Section 5
-- Last Message for Those Who Have Already Decided to Prepare for GATE
-- Reason for Doing This
-- Final Note
-
-
+So you're either about to start engineering, or you've already taken admission in a Tier-2 or Tier-3 college or you are in 1st or may be in Final year and are wondering what the next four years are really going to look like. Maybe you're excited, maybe you're nervous, maybe you're comparing yourself with students from IITs and NITs, or maybe you're simply trying to figure out whether engineering is actually worth the time, effort, and sacrifices you're about to make.
 This is that guide.
-
 I'll try to cover each and every thing that genuinely matters to you as an engineering student — academics, skills, internships, placements, friendships, opportunities, mistakes, personal growth, and the reality of studying in a Tier-3 college. I'll also talk about the things nobody tells you during admission season but that end up having the biggest impact on your college life.Things which are not mention in academic brochure.
-
 One more thing — throughout my engineering journey, I didn't focus on just one path. Alongside my college academics, I prepared for colllege placements, gov. job exa, CAT and GATE. This is major mistake i have done but this is help me to understanding different preparation strategies, making mistakes, and learning from them. So whatever I'll be sharing here doesn't come from theory, YouTube motivation, or things I've heard from others. It comes from my own experiences, observations, successes, failures, and lessons learned during my engineering journey. While I may not have all the answers , I am not saying I am perfect to tell but I believe many of the things I discuss will be relevant and useful regardless of which path you eventually choose.
-
 Most importantly, I'll try my best to be 100% honest about everything I write here. No sugarcoating, no fake motivation, and no unrealistic success stories, no drama . Just real experiences, observations, lessons, mistakes, and everything I wish someone had told me when I was in your position.
+
+
 
 I know this story is going to be a little long, but by the end of it, I'll try my best to make sure that every second you spend reading it adds some value to your engineering journey/life.
 
@@ -30,7 +17,6 @@ I know this story is going to be a little long, but by the end of it, I'll try m
 
 
 # Section 1: Most Tier-3 Engineering Students Will Relate to This
-==================================
 
 ## First Year – The Honeymoon Period
 
@@ -139,25 +125,17 @@ Because I am a student of the 2026 batch, I can provide a clear picture of this 
 Package-wise Placement Distribution (2026 Batch)
 
 ₹4.25 LPA – 8 students
-
 ₹4.00 LPA – 5 students
-
 ₹3.00 LPA – 1 student
-
 ₹2.80 LPA – 3 students
-
 ₹2.50 LPA – 3 students
 
 Company-wise Placement Distribution (2026 Batch)
 
 Capgemini  – 7 students
-
 Cognizant – 6 students (only girls are allowed -off campus )
-
 Sphere Skill Knowledge Synergy (OPC) Pvt. Ltd. – 3 students
-
 Arch IT Service – 3 students
-
 ExcelR EdTech Private Ltd. – 1 student
 Total Students Placed: 20
 
@@ -175,7 +153,7 @@ Amit Bhaiya is here to share a few things that four years of engineering have ta
 
 # Section 3 : Other Opportunities That Open Up After Engineering
 
-============================================
+
 
 Disclaimer : This section is not for everyone or those who have already decided what they want to do
 
@@ -243,13 +221,9 @@ A Small Note on Placements  :
 I don't have placement data for every IIT or institute. And I always love to go with data. However, I can share the placement statistics of the My College : M.Tech CSE batch at IIT Kanpur (2026 batch), which I have collected
 
 8 students received packages above 50 LPA
-
 23 students received packages above 30 LPA
-
 33 students received packages above 25 LPA
-
 37 students received packages above 20 LPA
-
 51 students received packages above 15 LPA
 
 Highest Package: 83 LPA
@@ -257,13 +231,9 @@ Lowest Package: 10 LPA
 Average Package : 27 LPA
 Placement Percentage: 100%
 
-One important thing to understand is that these numbers are cumulative. For example, when I say 33 students received packages above 25 LPA, that count already includes students who received packages above 30 LPA and 50 LPA.
+One important thing to understand is that these numbers are cumulative. For example, when I say 33 students received packages above 25 LPA, that count already includes students who received packages above 30 LPA and 50 LPA. I am not going to share every single detail here of every college actually i dont have also. Engineering teaches you many things, and one of them is that not everything will be handed to you. Learning how to find information yourself is an important skill.
 
-I am not going to share every single detail here of every college. Engineering teaches you many things, and one of them is that not everything will be handed to you. Learning how to find information yourself is an important skill.
-
-Another point worth mentioning is that these statistics are specifically for the M.Tech CSE program at IIT Kanpur. They should not be used to estimate placements for other branches. Different departments have different opportunities, different recruiters, and different placement outcomes. Some branches may have lower average packages, and in certain core branches, placement percentages can also be less than 50%.
-
-Also remember that IIT Kanpur is generally considered among the top 4 IITs in the country. Naturally, placement outcomes at other IITs may differ depending on the branch, market conditions, and institute reputation.
+Another point worth mentioning is that these statistics are specifically for the M.Tech CSE program at IIT Kanpur. They should not be used to estimate placements for other branches. Different departments have different opportunities, different recruiters, and different placement outcomes. Some branches may have lower average packages, and in certain core branches, placement percentages can also be less than 50%.Also remember that IIT Kanpur is generally considered among the top 4 IITs in the country. Naturally, placement outcomes at other IITs may differ depending on the branch, market conditions, and institute reputation.
 
 Note: If you are from a branch other than CS, do not blindly rely on the data or observations I have shared here. The reality can be very different for Mechanical, Electrical, Civil, Electronics, and other branches. Similarly, opportunities, placements, and outcomes are not the same across all IITs and institutes. Always do your own research and look at the latest official data for your branch, target institute, and career path before making any major decision
 
@@ -283,18 +253,14 @@ https://docs.google.com/spreadsheets/d/1DhohNBG1uQSc9gYAoCmuQ8dGw6bKaFFwIpmtJGZD
 For GATE CS 2026, a rough idea is: Out of 100 marks
 
 80+ marks → AIR under 40
-
 70+ marks → AIR under 300
-
 60+ marks → AIR under 1000
-
 53+ marks → AIR under 3000
-
 40+ marks → AIR around 10,000
 
 The important thing to understand is that your competition is not with every person who fills the form . Many candidates appear casually or without serious preparation. The real competition is with the students who prepare consistently for months or years. The path is difficult, but it is not impossible. Whatever path you choose—placements, GATE, CAT, government jobs, or higher studies—make sure it is your decision, backed by proper research and a clear understanding of reality.Not any assumption.
 
-—------------------------------------------------------------------------------------------------------------------
+
 Last Message for Those Who Have Already Decided to Prepare for GATE
 —--------------------------------------------------------------------------------------------------------See, at one point I was exactly where you are right now—confused about what to do and what not to do. I spent a lot of time analyzing different career paths, thinking about what would work for me, what could go wrong, Preparing for any competitive exam comes with both advantages and risks. I have seen many of my friends and seniors take drops for GATE and still end up with struggled. The possibility of failure always exists, and there is no point pretending otherwise.
 
@@ -322,15 +288,6 @@ Email: engineer.amittaksande@gmail.com
 Amit Taksande
 B.Tech - PCE Nagpur [Computer Technology : 2022-2026]
 M.Tech - IIT Kanpur [CSE : 2026-2028]
-
-
-
-
-
-
-
-
-
 
 
 ## Final Note
