@@ -1,14 +1,16 @@
-0 to 1: Unfiltered Engineering College Life 
+# 0 to 1: Unfiltered Engineering College Life 
 
 
 
 So you're either about to start engineering, or you've already taken admission in a Tier-2 or Tier-3 college or you are in 1st or may be in Final year and are wondering what the next four years are really going to look like. Maybe you're excited, maybe you're nervous, maybe you're comparing yourself with students from IITs and NITs, or maybe you're simply trying to figure out whether engineering is actually worth the time, effort, and sacrifices you're about to make.
+
 This is that guide.
+
 I'll try to cover each and every thing that genuinely matters to you as an engineering student — academics, skills, internships, placements, friendships, opportunities, mistakes, personal growth, and the reality of studying in a Tier-3 college. I'll also talk about the things nobody tells you during admission season but that end up having the biggest impact on your college life.Things which are not mention in academic brochure.
+
 One more thing — throughout my engineering journey, I didn't focus on just one path. Alongside my college academics, I prepared for colllege placements, gov. job exa, CAT and GATE. This is major mistake i have done but this is help me to understanding different preparation strategies, making mistakes, and learning from them. So whatever I'll be sharing here doesn't come from theory, YouTube motivation, or things I've heard from others. It comes from my own experiences, observations, successes, failures, and lessons learned during my engineering journey. While I may not have all the answers , I am not saying I am perfect to tell but I believe many of the things I discuss will be relevant and useful regardless of which path you eventually choose.
+
 Most importantly, I'll try my best to be 100% honest about everything I write here. No sugarcoating, no fake motivation, and no unrealistic success stories, no drama . Just real experiences, observations, lessons, mistakes, and everything I wish someone had told me when I was in your position.
-
-
 
 I know this story is going to be a little long, but by the end of it, I'll try my best to make sure that every second you spend reading it adds some value to your engineering journey/life.
 
