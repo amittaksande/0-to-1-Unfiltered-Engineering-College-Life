@@ -9,9 +9,9 @@ So you're either about to start engineering, or you've already taken admission i
 
 This is that guide for you !
 
-I'll try to cover each and every thing that genuinely matters to you as an engineering student — academics, skills, internships, placements, friendships, opportunities, mistakes, personal growth, and the reality of studying in a Tier-3 college. I'll also talk about the things nobody tells you during admission season but that end up having the biggest impact on your college life.Things which are not mention in academic brochure.
+I'll try to cover each and every thing that genuinely matters to you as an engineering student — academics, skills, internships, placements, friendships, opportunities, mistakes, personal growth, and the reality of studying in a Tier-3 college. I'll also talk about the things nobody tells you during admission season but that end up having the biggest impact on your college life.Things which are not mentioned in academic brochure.
 
-One more thing — throughout my engineering journey, I didn't focus on just one path. Alongside my college academics, I prepared for colllege placements, goverment job, CAT and GATE. This is major mistake i have done. So whatever I'll be sharing here doesn't come from theory, YouTube motivation, or things I've heard from others. It comes from my own experiences, observations, successes, failures, and lessons learned during my engineering journey. While I may not have all the answers , I am not saying I am perfect to tell but I believe many of the things I discuss will be relevant and useful regardless of which path you eventually choose.
+One more thing — throughout my engineering journey, I didn't focus on just one path. Alongside my college academics, I prepared for college placements, government job, CAT and GATE. This is major mistake i have done. So whatever I'll be sharing here doesn't come from theory, YouTube motivation, or things I've heard from others. It comes from my own experiences, observations, successes, failures, and lessons learned during my engineering journey. While I may not have all the answers , I am not saying I am perfect to tell but I believe many of the things I discuss will be relevant and useful regardless of which path you eventually choose.
 
 Most importantly, I'll try my best to be 100% honest about everything I write here. No sugarcoating, no fake motivation, and no unrealistic success stories, no drama . Just real experiences, observations, lessons, mistakes, and everything I wish someone had told me when I was in your position.
 
@@ -121,17 +121,17 @@ And suddenly, the only option left seems to be a ₹4 LPA job.But this is where 
 
 ## The Placement Reality
 
-In this section, I don't want to share my personal opinions. Instead, let's look at the numbers. I want to just Go with data.the real pictures that no one tell you and life will hit hard more than anything else. Something which is not mention in academic brochure.
+In this section, I don't want to share my personal opinions. Instead, let's look at the numbers. I want to just Go with data-the real pictures that no one tell you and life will hit hard more than anything else. Something which is not mentioned in the academic brochure
 
 Department: Computer Technology
 (One of the leading departments of PCE)
 Total Strength: Approximately 120 students per batch (±10 students due to direct second-year admissions, some students get DC).
 
-Because I am a student of the 2026 batch, I can provide a clear picture of this year's placement scenario.(Computer technology-PCE Nagpur) and this will be same/similar for other soft branches dont expect to be different.
+Because I am a student of the 2026 batch, so I can provide a clear picture of this year's placement scenario (Computer Technology – PCE Nagpur). and this will be same/similar for other soft branches dont expect to be different.
 
 Package-wise Placement Distribution (2026 Batch)
 
-₹4.25 LPA – 8 students (only for girls )<br>
+₹4.25 LPA – 8 students (only for girls)<br>
 ₹4.00 LPA – 5 students<br>
 ₹3.00 LPA – 1 student<br>
 ₹2.80 LPA – 3 students<br>
@@ -139,12 +139,12 @@ Package-wise Placement Distribution (2026 Batch)
 
 Company-wise Placement Distribution (2026 Batch)
 
-8 students - Capgemini   (only girls are allowed -off campus )<br>
+8 students - Capgemini (only girls off-C)<br>
 5 students - Cognizant  <br>
-3 students - Sphere Skill Knowledge Synergy <br>
+3 students - Sphere Skill Knowledge<br>
 3 students - Arch IT Service <br>
 1 students - ExcelR EdTech Private <br>
-Total Students Placed: 20 out of 120<br>
+Total Students Placed: 20 out of 120 Students<br>
 
 Historical Placement Percentage [CT-PCE]
 - 2023 → 33.3%
@@ -154,10 +154,10 @@ Historical Placement Percentage [CT-PCE]
 
 And this is the condition of one of the best software-related branches of PCE. If we start looking at some of the core branches, the situation can be even more challenging.
 
-At this point, many of you will start asking a that difficult question:
+At this point, many of you will start asking that difficult question:
 
 "Did I make the right decision?"
-After investing ₹12–13 lakhs(and if u are a girl then it could be even more), spending four years in engineering, sacrificing countless weekends, assignments, exams, and opportunities, is getting a ₹4 LPA job really worth it? And that's assuming you get placed in the first place.(the main thing is 5-10 years ago they giving same package and now after this much of inflation ,considering living cost u are getting same offer..u need to think twice)
+After investing ₹12–13 lakhs (and if you are a girl, then it could be even more), spending four years in engineering, sacrificing countless weekends, assignments, exams, and opportunities, is getting a ₹4 LPA job really worth it? And that's assuming you get placed in the first place.(the main thing is 5-10 years ago they giving same package and now after this much of inflation ,considering living costs, you are getting the same offer… you need to think twice
 
 These questions are completely natural. In fact, almost every final-year student asks them at some point. But before you jump to conclusions...
 
@@ -168,7 +168,7 @@ Amit Bhaiya is here to share a few things that four years of engineering have ta
 <br>
 <br>
 
-# Section 3 : Other Opportunities That Open Up After Engineering
+# Section 3 : Opportunities That Open Up After Engineering
 ════════════════════════════════════════════════════════════════
 
 
@@ -182,29 +182,31 @@ It is for those who are hungry to work hard and change their circumstances.<br>
 If its you, keep reading 
 
 # Career Path 1: UPSC<br>
-If you do not plan to pursue an UPSC, I would recommend skipping this section.
+If you do not plan to pursue a UPSC, I would strongly recommended skipping this section.
 Yes, the most famous and prestigious career path in India. But I would not recommend it to everyone. Not because you cannot crack it, but because UPSC demands much more than intelligence. It requires years of consistency, the right strategy, guidance, family support, and enough financial stability to survive during the preparation phase. Many candidates spend 4–5 years preparing for a single exam, and most do not clear it in their first few attempts.
 
 Talking from personal experience, one of my relatives has been preparing for UPSC for the last 5–6 years and is still trying. It is not because he is weak in studies he is not even average ; the exam itself is extremely competitive. Even candidates who become IPS officers may not be able to clear the Preliminary examination again in another attempt. So, choose UPSC only if you fully understand the risks involved and are prepared for a long and uncertain journey.
 
 
 # Career Path 2: Railways, SSC, Banking & Other Government Jobs<br>
+Skip this if it’s not in your priority.
 
 I will be honest—I do not know every detail about all these exams, but one thing is common among them: they take time, patience, and consistent preparation. The competition is very high because lakhs of candidates apply every year. However, do not take this in a negative way. Government jobs are still one of the most respected career options in India and provide a stable path for those who are willing to put in the effort.
 
 Right now, you are young and may not have many responsibilities, so private-sector jobs with higher salaries may look more attractive. But as life moves forward, priorities change. Many people eventually value job security, work-life balance, and mental peace over constant corporate pressure. A government job may not always offer the highest salary, but it provides stability and allows many people to live a peaceful life with their family, spouse, and children.
 
 
-# Career Path 3: MBA<br>
+# Career Path 3: MBA : Skip this if it’s not in your plan<br>
 
 Doing an MBA is a good option, but in my opinion, it only makes sense if you do it from a top college. Colleges like IIMs, IITs (yes, IITs also offer MBA programs), FMS Delhi, XLRI, and SPJIMR are among the institutions worth aiming for. To get into these colleges, you need to crack CAT, which usually requires 1–2 years of serious preparation. Even then, many candidates are unable to secure admission because the competition is extremely high.
 
 The CAT exam is open to students from all backgrounds—B.Com, B.A., Medical, Engineering, Chartered Accountancy, and many others. This makes the competition even tougher, especially for GEM (General Engineer Male) candidates. Sometimes, even choosing the wrong question set on exam day can significantly affect your result. It is also worth noting that most students in top MBA colleges are not freshers. A large percentage have prior work experience, which is why many people recommend gaining some industry experience before attempting CAT.
 
-Another important factor is the cost. A top MBA can easily cost ₹20–30 lakhs.(for top MBA colleges its 30-35 lack for 2 years) So, before deciding on this path, make sure you understand the competition, fees, admission statistics, and placement outcomes. If you are still interested after looking at the data, then MBA can be a great option, but always make decisions based on facts rather than assumptions.
+Another important factor is the cost. A top MBA can easily cost ₹20–30 lakhs.(for top MBA colleges its 30-35 lack for 2 years) So, before deciding on this path, make sure you understand the preparation time , admission statistics, and placement outcomes and ROI. If you are still interested after looking at the data, then MBA can be a great option, but always make decisions based on facts rather than assumptions.
 
 
-# Career Path 4: MS Abroad<br>
+# Career Path 4: MS Abroad <br>
+Skip if not a priority.
 
 MS abroad can open up many opportunities, including access to better research facilities, global exposure, higher salaries, and the chance to build a career in another country. For many students, it is a great option if they want to explore opportunities beyond India and experience a different lifestyle.
 
@@ -216,21 +218,21 @@ If you are interested in this path, do your own research carefully. Look at univ
 
 I have not talked much about off-campus placements because they are a completely different game. I am not saying it is impossible, but it is definitely difficult. But If you are competent enough, have the right guidance, proper planning, and strong skills, you can absolutely make it. There are many students who have secured good opportunities through off-campus hiring.might not from our college but from different colleges.
 
-At the same time, I have also seen the other side. Without taking names, one of my batchmates was  ranked #1 in our institute on the GFG platform and still ended up with a ₹4 LPA job. Even now, he is waiting for his joining letter but he will get soon and best wishes to him always. Around 80% of my batchmates are still sitting at home. Some have joined coaching institutes after B.Tech for getting a job, only few takes drop for GATE those who have planned to go for Master  from IIT and some are even ready to take sales jobs just to start earning.Becaused living at Home after b.tech come with lot of mental pressure that u will not realized Now.
+At the same time, I have also seen the other side. Without taking names, one of my batchmates was  ranked #1 in our institute on the GFG platform and still ended up with a ₹4 LPA job. Even now, he is waiting for his joining letter but he will get soon and best wishes to him always. Around 80% of my batchmates are still sitting at home. Some have joined coaching institutes after B.Tech for getting a job, only few takes drop for GATE those who have planned to go for Master  from IIT and some are even ready to take sales jobs just to start earning.Becaused living at home after b.tech come with lot of mental pressure that u will not realized Now.
 
-Most of the companies that visited our campus were sales or marketing-oriented, while only a small percentage were actually IT companies. I am not saying this to discourage anyone. I just want you to do proper research before choosing any career path. Whether it is placements, GATE, CAT, government jobs, or MS abroad, understand the reality, study the data, and then make your decision.
+Most of the companies that visited our campus were sales or marketing-oriented, while only a small percentage were actually IT companies. I am not saying this to discourage anyone.With the right skills, guidance, and network, you can get a better off-campus job. I just want you to do proper research before choosing any career path. Whether it is placements, GATE, CAT, government jobs, or MS abroad, understand the reality, study the data, and then make your decision.
 
-# Career Path 6: GATE (Graduate Aptitude Test in Engineering) – Hidden Gem<br>
+# Career Path 6: GATE (Graduate Aptitude Test in Engineering) – A Hidden Gem<br>
 
 This is one of the most underrated opportunities available to engineering students, especially those from Tier-3 colleges. GATE provides a direct pathway to top institutes like IITs/NITs and IISc. An M.Tech from these institutes usually costs only around ₹2–3 lakhs for two years, and students also receive a stipend of ₹12,400 per month, which significantly reduces the financial burden. More importantly, it gives you the opportunity to spend two years with some of the brightest minds in the country, build a strong network, and gain access to opportunities that may not be available in a Tier-3 college.
 
-Many people leave their jobs to prepare for GATE, while you still have time during college to prepare for it. In my opinion, moving from a Tier-3 college to a top IIT through GATE can be one of the biggest career upgrades possible. Rather than going for 4lpa job It also opens doors to higher studies abroad, research opportunities, and strong placement prospects. The IIT tag does help, not because it guarantees success, but because it gives you access to better opportunities, professors, alumni networks, and industry connections that college have
+Many people leave their jobs to prepare for GATE, while you still have time during college to prepare for it. In my opinion, moving from a Tier-3 college to a top IIT through GATE can be one of the biggest career upgrades possible. Rather than going for 4 LPA job It also opens doors to higher studies abroad, research opportunities, and strong placement prospects. The IIT tag does help, not because it guarantees success, but because it gives you access to better opportunities, professors, alumni networks, and industry connections that colleges have.
 
-Another advantage of GATE is that it opens multiple government job opportunities. Through a good GATE rank, students can get opportunities in PSUs, research organizations, and institutes like ISRO, BARC, and DRDO. For core branches such as Mechanical, Electrical, and Civil, many government openings are directly linked to GATE scores. Even for Computer Science students,Top GATE Rank opens far more opportunities than most people cant realize in this same sheet u can find 50+ opportunity (thanks to rishi bhaiya )after GATE CS that can open up for you.Most importantly the exam is restricted to only engineers only unlike CAT. Before making any career decision, look at all the available options and the actual data. The better informed you are, the better your decision will be.
+Another advantage of GATE is that it opens multiple government job opportunities. Through a good GATE rank, students can get opportunities in PSUs, research organizations, and institutes like ISRO, BARC, and DRDO. For core branches such as Mechanical, Electrical, and Civil, many government openings are directly linked to GATE scores. Even for Computer Science students,Top GATE Rank opens far more opportunities than most people cant realize in this same sheet u can find 50+ opportunities (thanks to rishi bhaiya )after GATE CS that can open up for you.Most importantly the exam is restricted to only engineers only unlike CAT. Before making any career decision, look at all the available options and the actual data. The better informed you are, the better your decision will be.
 
-# A Small Note on Placements  :<br>
+# A Small Note on Placements for IIT's :<br>
 
-I don't have placement data for every IIT or institute. And I always love to go with data. However, I can share the placement statistics of the My College : M.Tech CSE batch at IIT Kanpur (2026 batch), which I have collected
+I don't have placement data for every IIT or institute. And I always love to go with data. However, I can share the placement statistics of the My College : For M.Tech CSE batch at IIT Kanpur (2026 batch), which I have collected
 
 8 stu. received packages above 50 LPA<br>
 23 stu. received packages above 30 LPA<br>
@@ -260,7 +262,7 @@ The takeaway is simple: don't look at a placement report and assume every studen
 
 Now, after reading this entire info. many of you might be thinking, "I should start preparing for GATE or some other exam right now." But I would say—stop for a moment.
 
-As you may have noticed throughout this document, I always prefer data over motivation. For GATE CS, more than 2 lakh candidates register this year, but only a small fraction secure admission into the top IITs. Before choosing any path, do your own research. Connect with students who are already studying at IITs, NITs, or working in the field you want to go.They usually have a much clearer picture than random people on social media. See in our college there is no such enviorment of GATE or encourangment from college. I am able to do thats all together different story .
+As you may have noticed throughout this document, I always prefer data over motivation. For GATE CS, more than 2 lakh candidates register this year, but only a small fraction secure admission into the top IITs. Before choosing any path, do your own research. Connect with students who are already studying at IITs, NITs, or working in the field you want to go.They usually have a much clearer picture than random people on social media. See in our college there is no such enviorment of GATE or encourangment from college. I am able to do that’s a completely different story.
 Since you are from my college, I am sharing a resource that may help you analyze things better:
 
 [you can open this link after reading]
@@ -296,9 +298,9 @@ Through the support of family, teachers, seniors, friends, and a lot of persever
 
 Coming from such a background and getting an opportunity to study at one of the top institutes in India for higher education is something he considers a privilege rather than an achievement. He is still figuring out many things in life and does not claim to have all the answers. But whenever someone genuinely needs help, he tries to help as much as he can, because at different points in his own journey, someone else did the same for him.
 
-If this document helps even one student make a better decision about their future, then the time spent creating it was worth it to me.
+If this document helps even one student make a better decision about their future, then the time spent creating it was worth it to me.Love to hear feedback from you !
 
-For future updates, guidance, or if I come across something that might help my juniors will definitely share with you all
+For future updates, guidance, or if I come across something that might help my juniors I will definitely share with you all
 
 Amit Taksande<br>
 B.Tech - PCE Nagpur [Computer Technology : 2022-2026]<br>
