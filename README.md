@@ -182,7 +182,7 @@ It is for those who are hungry to work hard and change their circumstances.<br>
 If its you, keep reading 
 
 # Career Path 1: UPSC<br>
-
+If you do not plan to pursue an UPSC, I would recommend skipping this section.
 Yes, the most famous and prestigious career path in India. But I would not recommend it to everyone. Not because you cannot crack it, but because UPSC demands much more than intelligence. It requires years of consistency, the right strategy, guidance, family support, and enough financial stability to survive during the preparation phase. Many candidates spend 4–5 years preparing for a single exam, and most do not clear it in their first few attempts.
 
 Talking from personal experience, one of my relatives has been preparing for UPSC for the last 5–6 years and is still trying. It is not because he is weak in studies he is not even average ; the exam itself is extremely competitive. Even candidates who become IPS officers may not be able to clear the Preliminary examination again in another attempt. So, choose UPSC only if you fully understand the risks involved and are prepared for a long and uncertain journey.
