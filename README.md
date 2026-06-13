@@ -35,9 +35,10 @@ The first year is usually when you make the largest number of friends. You'll sp
 Academically, most students start with great enthusiasm. Everyone wants a high CGPA, everyone promises themselves they'll study regularly, and everyone tries to maintain that famous 75% attendance requirement. For the first few weeks, notebooks are neat, assignments are submitted on time, and motivation is at an all-time high.
 
 But slowly, reality begins to set in.
-A large number of students eventually find themselves watching YouTube lectures from channels like Tickles Academy, Gate Smashers, or some random "Complete Unit in 15 Minutes" video just one day before the exam. Somehow, these videos become the unofficial professors for half the batch during exam season.
+A large number of students eventually find themselves watching YouTube lectures from channels like Tickles Academy, Gate Smashers, or some random YT channel and  "Complete Unit in 15 Minutes" video just one day before the exam. Somehow, these videos become the unofficial professors for half the batch during exam season.
 
-And of course, no discussion about first year would be complete without mentioning crushes. At some point, many students end up trying to impress that one person that you find interesting. 
+And many students end up trying to impress that one person that you find interesting.<br>
+Relationship advice: Honestly, I am not completely the right person to talk about it because I should be on another side by considering both sides. But I just want to tell you: do you want a girlfriend/boyfriend just because others have one, or did you like her beauty and not her heart? Or do you want to tell others how beautiful/smart your gf/bf is? Be honest with yourself. There is no shame in being in a relationship, but from my experience of 4 years, 70–80% of relationships end by the final year, and choosing the wrong girl/boy can end up wasting your complete 4 years.The decision is yours!
 <br>
 <br>
 
@@ -282,7 +283,7 @@ The important thing to understand is that your competition is not with every per
 # Last Message for Those Who Have Already Decided to Prepare for GATE<br>
 See, at one point I was exactly where you are right now—confused about what to do and what not to do. I spent a lot of time analyzing different career paths, thinking about what would work for me, what could go wrong, Preparing for any competitive exam comes with both advantages and risks. I have seen many of my friends and seniors taking drops for GATE and still end up with struggled. The possibility of failure always exists.
 
-But one thing that gave me confidence was data, not assumptions. If your goal is GATE and aim for the Top institutes of India. Do not just sit and study randomly. You need a proper plan, a clear strategy, and most importantly, guidance from people who have already cracked the exam. You may not realize the importance of guidance now, but after your attempt, you definitely will. Also, if you are not willing to sit for long hours consistently and stay disciplined for next few months, then this path may not be for you. I am not saying GATE is impossible, but if you want something bigger, you must be ready to take bigger actions and make sacrifices.
+But one thing that gave me confidence was data, not assumptions. If your goal is GATE and aim for the Top institutes of India. Do not just sit and study randomly. You need a proper plan, a clear strategy, and most importantly, guidance from people who have already cracked the exam. You may not realize the importance of guidance now, but after your attempt, you definitely will (And yes, I am not going to start any mentorship session like other toppers) Just speaking what I feel. Also, if you are not willing to sit for long hours consistently and stay disciplined for next few months, then this path may not be for you. I am not saying GATE is impossible, but if you want something bigger, you must be ready to take bigger actions and make sacrifices.
 
 If you prepare with the right plan, strategy, and guidance, then reaching a top institute is absolutely possible. Stay focused, stay consistent, solve problems, and give yourself enough time. With hard work of  next few months or 1-2 years can completely change the direction of your life. That's all Amit Bhaiya wants to say to you !
 
