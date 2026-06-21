@@ -1,6 +1,6 @@
 <h1>0 to 1 : Unfiltered Engineering College Life</h1>
 
-𝘙𝘢𝘸, 𝘙𝘦𝘢𝘭, 𝘏𝘰𝘯𝘦𝘴𝘵, 𝘜𝘯𝘣𝘪𝘢𝘴𝘦𝘥 & 𝘊𝘰𝘮𝘱𝘭𝘦𝘵𝘦 4 𝘠𝘦𝘢𝘳 𝘰𝘧 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦
+𝘙𝘢𝘸, 𝘙𝘦𝘢𝘭, 𝘏𝘰𝘯𝘦𝘴𝘵, 𝘜𝘯𝘣𝘪𝘢𝘴𝘦𝘥 & 𝘊𝘰𝘮𝘱𝘭𝘦𝘵𝘦 4 𝘠𝘦𝘢𝘳 𝘰𝘧 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 - PCE | IITK CSE
 ══════════════════════════════════════════════
 
 
@@ -122,7 +122,7 @@ And suddenly, the only option left seems to be a ₹4 LPA job.But this is where 
 
 ## The Placement Reality
 
-In this section, I don't want to share my personal opinions. Instead, let's look at the numbers. I want to just Go with data-the real pictures that no one tell you and life will hit hard more than anything else. Something which is not mentioned in the academic brochure
+If you are not from PCE Nagpur stil you can relate with your college placement. In this section, I don't want to share my personal opinions. Instead, let's look at the numbers. I want to just Go with data-the real pictures that no one tell you and life will hit hard more than anything else. Something which is not mentioned in the academic brochure
 
 Department: Computer Technology
 (One of the leading departments of PCE)
@@ -145,6 +145,7 @@ Company-wise Placement Distribution (2026 Batch)
 3 students - Sphere Skill Knowledge<br>
 3 students - Arch IT Service <br>
 1 students - ExcelR EdTech Private <br>
+<br>
 Total Students Placed: 20 out of 120 Students<br>
 
 Historical Placement Percentage [CT-PCE]
@@ -310,7 +311,7 @@ If this document helps even one student make a better decision about their futur
 For future updates, guidance, or if I come across something that might help my juniors I will definitely share with you all
 
 Amit Taksande<br>
-B.Tech - PCE Nagpur [Computer Technology : 2022-2026]<br>
+B.Tech - PCE Nagpur [C.Tech : 2022-2026]<br>
 M.Tech - IIT Kanpur [CSE : 2026-2028]<br>
 
 LinkedIn: www.linkedin.com/in/amittaksande<br>
@@ -321,8 +322,8 @@ Email: engineer.amittaksande@gmail.com<br>
 
 If you have any doubts—academic or non-academic—and feel that my suggestions or experience might help, feel free to reach out through  my Gmail. I may not have all the answers, but I will try my best to help whenever I can.
 
-Also, if this article helped you in any way, I would love to hear your thoughts, feedback, or any suggestions through the this Google Form. Also, I have shared my personal spreadsheet in the same Google Form<br>
-It will give me happiness while reading your response<br>
+If my blog added even 1% value to your journey, please feel free to fill out the feedback form, I have shared my personal spreadsheet in the same Google Form<br>
+Your response will be greatly appreciated <br>
 <br>
 https://forms.gle/vsmvryap4rW7s9f78
 
