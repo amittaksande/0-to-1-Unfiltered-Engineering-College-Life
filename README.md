@@ -292,7 +292,7 @@ If you prepare with the right plan, strategy, and guidance, then reaching a top 
 <br>
 <br>
 # Summary :<br>
-The takeaway is simple: If you are from PCE and think that after 4 years of hard work you will get a 3–4 LPA on-campus job, you must first understand the reality of your college's placement situation and come out of that illusion. Life after final year can be challenging, and life will hit you hard Therefore, start exploring alternative opportunities from your 2nd or 3rd year itself, such as off-campus placements, competitive exams, or higher education.
+The takeaway is simple: If you are from PCE or other tier-3 college and think that after 4 years of hard work you will get a basic 4 LPA on-campus job, you must first understand the reality of your college's placement situation and come out of that illusion. Life after final year can be challenging, and life will hit you hard Therefore, start exploring alternative opportunities from your 2nd or 3rd year itself, such as off-campus placements, competitive exams, or higher education.
 
 Pursuing higher education from a good institute is often a better long-term investment than settling for a 5–6 LPA job immediately after graduation, but it requires complete dedication and consistent effort. The sooner you understand this reality and start working towards your goals, Whatever path you choose, make sure you understand all its requirements and are fully aware of its pros and cons, not just for the next few years but also for the next 10–20 years. A well-informed decision today can have a significant impact on your career, financial growth, and overall life in the future.
 <br>
@@ -325,7 +325,7 @@ If you have any doubts—academic or non-academic—and feel that my suggestions
 If my blog added even 1% value to your journey, please feel free to fill out the feedback form, I have shared my personal spreadsheet in the same Google Form<br>
 Your response will be greatly appreciated <br>
 <br>
-https://forms.gle/vsmvryap4rW7s9f78
+https://forms.gle/BAmKfp96GZSjbsCF6
 
 
 
