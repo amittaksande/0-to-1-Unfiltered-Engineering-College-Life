@@ -324,10 +324,8 @@ https://shorturl.at/hmvl8 <br>
 
 ## Final Note
 
-If you have any doubts—academic or non-academic—and feel that my suggestions or experience might help, feel free to reach out through  my Gmail. I may not have all the answers, but I will try my best to help whenever I can.
-
-If my blog added even 1% value to your journey, please feel free to fill out the feedback form, I have shared my personal spreadsheet in the same Google Form<br>
-Your response will be greatly appreciated <br>
+If my blog added even 1% value to your journey or give some clarity, please feel free to fill out the Google form, I have shared my personal spreadsheet in the same Google Form , I've Added Many Courses & Learning Resources That Will Help You Throughout Your Engineering Journey <br>
+Your response will help me analyze this blog and make it even better for future readers. I genuinely appreciate your time—it will take not more than 2 minutes to fill out this form <br>
 <br>
 https://forms.gle/BAmKfp96GZSjbsCF6
 
